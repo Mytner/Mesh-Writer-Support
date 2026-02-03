@@ -9,6 +9,7 @@ Mesh Writer Documentation
 
    installation
    usage
+   FAQ
    modules/index
 
 Features
