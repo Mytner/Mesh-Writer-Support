@@ -2,6 +2,11 @@
 
 Official documentation and issue tracker for the **Mesh Writer** Blender addon.
 
+
+## ❓ FAQ
+
+[**Frequently Asked Questions**](https://Mytner.github.io/Mesh-Writer-Support/faq.html)
+
 ## 📖 Documentation
 
 [**View Full Documentation**](https://Mytner.github.io/Mesh-Writer-Support/)
