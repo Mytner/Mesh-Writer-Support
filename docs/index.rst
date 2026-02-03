@@ -9,7 +9,7 @@ Mesh Writer Documentation
 
    installation
    usage
-   FAQ
+   faq
    modules/index
 
 Features
