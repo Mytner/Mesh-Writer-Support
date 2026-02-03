@@ -4,15 +4,15 @@ Official documentation and issue tracker for the **Mesh Writer** Blender addon.
 
 ## 📖 Documentation
 
-[**View Full Documentation**](https://YOUR_USERNAME.github.io/Mesh-Writer-Support/)
+[**View Full Documentation**](https://Mytner.github.io/Mesh-Writer-Support/)
 
 ## 🐛 Report a Bug
 
-[Open an Issue](https://github.com/YOUR_USERNAME/Mesh-Writer-Support/issues/new?template=bug_report.md)
+[Open an Issue](https://github.com/Mytner/Mesh-Writer-Support/issues/new?template=bug_report.md)
 
 ## 💡 Request a Feature
 
-[Open a Feature Request](https://github.com/YOUR_USERNAME/Mesh-Writer-Support/issues/new?template=feature_request.md)
+[Open a Feature Request](https://github.com/Mytner/Mesh-Writer-Support/issues/new?template=feature_request.md)
 
 ## 🚀 Features
 
