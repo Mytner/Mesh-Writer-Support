@@ -1,5 +1,5 @@
 Frequently Asked Questions
-==========================
+===========================
 
 .. contents:: Table of Contents
    :local:
