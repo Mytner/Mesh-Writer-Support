@@ -39,8 +39,9 @@ Official documentation and issue tracker for the **Mesh Writer** Blender addon.
 - **View3D** > Sidebar (N) > Mesh Writer tab
 - **Text Editor** > Sidebar (N) > Mesh Writer tab
 - **Geometry Nodes** > Sidebar (N) > Mesh Writer tab
+- **Shader Node Editor**  > Sidebar (N) > Mesh Writer tab
+- **Compositor Node Editor** > Sidebar (N) > Mesh Writer tab
 
 ## License
-GPL-3.0 - See LICENSE
 
 GPL-3.0 - See [LICENSE](LICENSE)
