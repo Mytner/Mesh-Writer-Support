@@ -45,6 +45,41 @@ In Geometry Nodes:
 2. Use **Insert** mode  
 3. Click an emoji to append to the string input
 
+
+Working with the Text Editor:
+----------------
+
+**Using the text editor in the node editor:**
+Click on the "Open Text Editor" button to open the text editor.
+You can use the editor just like any text editor to add multiline text.
+
+**Changing the text format to bold or italic:**
+You can change the text format to bold or italic using the buttons 🅱️ Bold Live and 𝑰 Italic Live.
+
+
+Frame Creation and Management:
+----------------
+**Creating a frame.**
+Open a Shader Node Editor (Same for Geometry and Compositor node editors)
+: Press N -- Go to the Mesh Writer tab
+To create a frame or comment:
+Use the "Create Frame ➕" button
+
+**Creating a frame for a node or nodes:**
+Select your node or nodes
+Use the "Insert Frame ☐" button
+A frame will be created at the mouse cursor location.
+
+Note: 
+Each frame creation results in a data block named "MeshWriter_MW". 
+
+This stores your text and formatting. Any frame created via Mesh Writer will have a data block ending with _MMeshWriter_MW. You can change it if you want.
+
+All data blocks are saved automatically, you do not need to save them manually.
+
+To delete a frame and its data block, simply delete the frame node. The data block will be deleted automatically.
+
+
 Language Selection
 ------------------
 

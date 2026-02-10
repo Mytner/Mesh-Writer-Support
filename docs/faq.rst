@@ -139,34 +139,25 @@ A frame will be created at the mouse cursor location.
 
 **Q: how to use the text editor in the node editor?**
 Click on the "Open Text Editor" button to open the text editor.
-
-
-Use the search bar to search for emojis or unicode characters.
-
-Or manually select from the categories below.
-
-Click on any emoji or unicode character to copy it to the clipboard.
-
-You can change the text format to bold or italic using the buttons 🅱️ Bold Live and 𝑰 Italic Live.
-
 You can use the editor just like any text editor to add multiline text.
 
-Use emojis like:
 
-🌲 for generators
-⚙️ for controls
-And many more to make your notes and frames expressive and fun!
-To edit the following frame properties, You do these just as you would with any regular frame node in Blender:
-Name, label and color select the frame and go to the Node tab in the sidebar (N key) and adjust the properties under Node ---> The label will be shown at the top of the frame in the node editor.--> The name is the internal name of the frame and will be shown in the outliner.--> The color will change the frame color.
+**Q: How to change the text format to bold or italic?**
+You can change the text format to bold or italic using the buttons 🅱️ Bold Live and 𝑰 Italic Live.
 
-Font Size select the frame and go to the Node tab in the sidebar (N key) and adjust the properties under Properties
 
-Size select the frame and click on the boundary of the frame and drag to resize.
+**Q: How to change the Name/Label/Color?Font size?**
+To edit these properties, you do these just as you would with any regular frame node in Blender:
+Name, label and color select the frame and go to the Node tab in the sidebar (N key) and
+--> Label : Click on the label field to edit the label text. The label is a secondary name that appears on the frame node and can be different from the data block name.
+--> Name: Click on the name field to edit the data block name. This is the internal name used for referencing the frame in scripts and data management. It must be unique among all data blocks.
+--> Color: The color option will change the frame color.
+--> Font Size: Select the frame and go to the Node tab in the sidebar (N key) and adjust the font size under Properties.
 
-Each frame creation results in a data block named active_frame_name_USER_Data_Block. This stores your text and formatting. any frame created via FrameFlow will have data block ending with _USER_Data_Block. You can change it if you want.
+**Q: How to resize the frame?**
+Simply select the frame and use the standard Blender node resizing handles to adjust its size.
 
-All data blocks are saved automatically, you do not need to save them manually.
+Still got queries? Open an `issue <https://github.com/abhi-01/FrameFlow-Blender/issues>`_ on GitHub.
 
-To delete a frame and its data block, simply delete the frame node. The data block will be deleted automatically.
 
-Still got queries? Open an issue on GitHub.
+
