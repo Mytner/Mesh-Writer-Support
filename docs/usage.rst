@@ -70,7 +70,8 @@ Select your node or nodes
 Use the "Insert Frame ☐" button
 A frame will be created at the mouse cursor location.
 
-Note: 
+**Note:** 
+
 Each frame creation results in a data block named "MeshWriter_MW". 
 
 This stores your text and formatting. Any frame created via Mesh Writer will have a data block ending with _MMeshWriter_MW. You can change it if you want.

@@ -137,7 +137,7 @@ Select your node or nodes
 Use the "Insert Frame ☐" button
 A frame will be created at the mouse cursor location.
 
-**Q: how to use the text editor in the node editor?**
+**Q: How to use the text editor in the node editor?**
 Click on the "Open Text Editor" button to open the text editor.
 You can use the editor just like any text editor to add multiline text.
 
