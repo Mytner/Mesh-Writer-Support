@@ -157,7 +157,7 @@ Name, label and color select the frame and go to the Node tab in the sidebar (N 
 **Q: How to resize the frame?**
 Simply select the frame and use the standard Blender node resizing handles to adjust its size.
 
-**Still got queries? Open an `Issue <https://github.com/abhi-01/FrameFlow-Blender/issues>`_ on GitHub.**
+**Still got queries?** Open an `issue <https://github.com/abhi-01/FrameFlow-Blender/issues>`_ on GitHub.
 
 
 
