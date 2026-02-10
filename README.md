@@ -27,6 +27,7 @@ Official documentation and issue tracker for the **Mesh Writer** Blender addon.
 - **SVG Import**: Import emoji SVGs as curve objects (View3D only)
 - **Multi-Editor Support**: Works in View3D, Text Editor, and Geometry Nodes
 - **Math Symbols**: Quick access to mathematical symbols and sub/superscripts
+- **Frame Notes**: Create multiline rich-formatted sticky notes for better documentation and communication
 
 ## Installation
 
