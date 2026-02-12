@@ -30,6 +30,9 @@ SVG Import (View3D Only)
 .. note::
    SVG import only works in View3D, not in Geometry Nodes.
 
+**All SVG files are scaled by 10 by default for better visual clarity. 
+Ensure to check on it in case you feel to change it.**
+
 Working with Text Objects
 -------------------------
 
@@ -72,9 +75,9 @@ A frame will be created at the mouse cursor location.
 
 **Note:** 
 
-Each frame creation results in a data block named "MeshWriter_MW". 
+Each frame creation results in a data block named "_MW". 
 
-This stores your text and formatting. Any frame created via Mesh Writer will have a data block ending with _MMeshWriter_MW. You can change it if you want.
+This stores your text and formatting. Any frame created via Mesh Writer will have a data block ending with "_MW". You can change it if you want.
 
 All data blocks are saved automatically, you do not need to save them manually.
 
