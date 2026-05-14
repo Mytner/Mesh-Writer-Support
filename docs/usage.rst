@@ -30,7 +30,7 @@ SVG Import (View3D Only)
 .. note::
    SVG import only works in View3D, not in Geometry Nodes.
 
-**All SVG files are scaled by 10 by default for better visual clarity. 
+**All SVG files are scaled by a value of 10 by default for better visual clarity. 
 Ensure to check on it in case you feel to change it.**
 
 Working with Text Objects
