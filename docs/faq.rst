@@ -151,6 +151,13 @@ You can use the editor just like any text editor to add multiline text.
 You can change the text format to bold or italic using the buttons 🅱️ Bold Live and 𝑰 Italic Live.
 
 
+**Changing the text format to superscript or subscript**
+ You can change the text format to superscript or subscript, by pressing the "Live" buttons. If the super or sub script of that character exists then it will print the same else it will roll back to its original format.
+
+**Changing the text font** 
+You can change the text font by going to  in the 3D Vieport insifde Mesh Writer -- "Text Font Options" -- Dropdown "Font Presets" --Select any of the three fonts, 'Bfont', 'Segoe UI' and 'Symbola'.
+**If you are on MacOS or Linunx, you maynot see the SeGoe UI font, as it is a Windows system font. In that case, you can select any of the other two fonts or add your own custom font by following the instructions in the documentation.** 
+
 **Q: How to change the Name/Label/Color?Font size?**
 To edit these properties, you do these just as you would with any regular frame node in Blender:
 Name, label and color select the frame and go to the Node tab in the sidebar (N key) and
