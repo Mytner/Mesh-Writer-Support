@@ -7,6 +7,11 @@ Frequently Asked Questions
 
 ----
 
+**Documentation and FAQs are continuously being expanded alongside new features and workflows.
+If you have questions, run into issues, or need help with a specific setup, feel free to contact me directly at abhishek.physics90@gmail.com — 
+I usually respond within a day, and user feedback actively shapes which guides get written next and what tutorials to publish.**
+
+
 **Q: Why do some Unicode characters (e.g. certain symbols) not appear?**
 
 Mesh Writer is an evolving library with more than three thousand Unicode characters. Not all Unicode characters are currently supported, especially rare or complex glyphs. Support for additional Unicode symbols will be expanded in future updates.
@@ -156,6 +161,11 @@ Name, label and color select the frame and go to the Node tab in the sidebar (N 
 
 **Q: How to resize the frame?**
 Simply select the frame and use the standard Blender node resizing handles to adjust its size.
+
+**The docs cover all core features and the most common workflows. 
+Coverage of advanced use cases and edge scenarios is being expanded based on what users actually ask about — which I've found works better than trying to predict every possible question upfront.
+If you can't find what you need, ping me at abhishek.physics90@gmail.com and I'll usually have an answer the same day, plus update the docs so the next person finds it.**
+
 
 **Still got queries?** Open an `issue <https://github.com/abhi-01/FrameFlow-Blender/issues>`_ on GitHub.
 
